@@ -1,5 +1,5 @@
 # README
-
+```
 1. Create Mysql Databse in local env (rails db:create)
 2. Change databse credentials in config/databse.yml file as below
       adapter: mysql2
@@ -17,4 +17,4 @@
    rails db:migrate
 5. Start server 
    rails s or rails server
-
+```
